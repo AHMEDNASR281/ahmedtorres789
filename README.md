@@ -5,8 +5,7 @@
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1569857046/1668169518/600x200)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+I am interested in languages of frontend end development and frameworks like react js ❤️
 Skills:  REACT / JS / HTML / CSS / Tailwind / Bootstrap 
 
 - 🔭 I’m currently working on this page. 
